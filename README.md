@@ -1,16 +1,21 @@
 # API
 ## Application shows tables and charts of measurements taken from the sensors.
 ## Main Page
+![alt text](https://github.com/veraxys/sss/blob/master/doc.png "Chart")
 
 ### On the left side you have three bookmarks: Dashboard, Tables and Charts.
 ### You can simply click on it to move to the following pages.
 
 
 ## Dashboard
+![alt text](https://github.com/veraxys/sss/blob/master/doc.png "Chart")
+
 ### This page shows all your sensors. You can check your sensor Id , last date of measurement and value.
 
 
 ## Tables
+![alt text](https://github.com/veraxys/sss/blob/master/doc.png "Chart")
+
 ### This page shows tables.
 ### Field "1" is Sensor ID. You have to write ID to search that specific sensor.
 ### Fields "2 - Value min" and "3 - Value max" are optional. You can search sensor with the specific value.
@@ -19,7 +24,6 @@
 ### Field "7" is the place where the table will be created.
 
 ## Charts
-
 ![alt text](https://github.com/veraxys/sss/blob/master/doc.png "Chart")
 
 ### This page shows charts.
