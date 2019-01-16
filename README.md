@@ -14,7 +14,7 @@
 
 ## Charts
 
-![alt text][3] [3]: https://raw.githubusercontent.com/sosnus/iot-tul-dashboard/master/docs/img/3.png "3d render"
+![alt text][3] [3]: https://github.com/veraxys/sss/blob/master/doc.png "3d render"
 ### This page shows charts.
 ### Field "1" is Sensor ID. You have to write ID to search that specific sensor.
 ### Fields "2 - Start Date" and "3 - End Date" are optional. You can search sensor with the specific period of time. 
