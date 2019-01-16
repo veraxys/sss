@@ -20,7 +20,7 @@
 
 ## Charts
 
-![alt text][3] [3]: https://github.com/veraxys/sss/blob/master/doc.png "3d render"
+![alt text](https://github.com/veraxys/sss/blob/master/doc.png "Chart")
 
 ### This page shows charts.
 ### Field "1" is Sensor ID. You have to write ID to search that specific sensor.
